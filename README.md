@@ -46,7 +46,7 @@ The final model is run with augmentation and the adjusted learning and dropout r
 
 For viewing and editing notebooks, Jupyter can be used. Other files can be viewed and edited on VS Code.
 
-All libraries are used in the lecture and homework, therefore they are expected to be installed.
+All libraries are used in the lecture and homework, therefore they are expected to be installed. If not, 'pip install' command can be used.
 
  'splitfolders' library is used to divide the dataset into two parts, which can be installed using 'pip install split-folders'.
  
