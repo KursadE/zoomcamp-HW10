@@ -64,5 +64,5 @@ To create the container, on the Terminal screen one should go to the folder in w
 
 While the container is running, 'test.py' can be used to provide the model with sample pictures from the Internet. There are four links in the 'test.py', 3 of which are commented. On a new Terminal window, 'test.py' can be run by typing 'python test.py' command. 
 
-'lambda_function.py' can be also be tested as it is done in lecture videos (ie. ipython, from lambda_function import lambda_handler...)
+'lambda_function.py' can be also be tested as it is done in lecture videos (ie. ipython / from lambda_function import lambda_handler / ...)
  
