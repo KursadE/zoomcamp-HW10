@@ -15,7 +15,9 @@ The dataset is not included in the repository as its size is more than 600mb. Th
 
 The project is done on a Mac computer, with the OS being High Sierra. 
 
-The default download folder for MacOS is "Downloads". After the download completed, the folder is moved to '/Users/Erol/Documents/HW10/' as 'archive/raw-img'. The naming of the dataset path is important as training and validation datasets are created using the path name in the code in 'notebook.ipynb'
+The default download folder for MacOS is "Downloads". After the download completed, the folder is moved to '/Users/Erol/Documents/HW10/' as 'archive/raw-img'. 
+
+The naming of the dataset path is important as training and validation datasets are created using the path name in the code in 'notebook.ipynb'
 
 # The files in the repository
 
