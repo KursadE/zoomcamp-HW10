@@ -40,7 +40,7 @@ The final sequential model was trained for 25 epochs though its accuracy was inc
 
 Xception model is used as the pretrained model. The model is first trained with the train set. Then the model was run to adjust the learning and dropout rates. The number of epochs was set to 5 in order to reduce training time since the accuracy rate on validation set was more than 90%. 
 
-The final model is run with augmentation and the adjusted learning and dropout rates, with 10 epochs.
+The final model is run with augmentation and the adjusted learning and dropout rates, and with 10 epochs.
 
 # Instructions on how to run the project
 
