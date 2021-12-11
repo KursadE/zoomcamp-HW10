@@ -38,7 +38,7 @@ Only train and validation datasets are used, meaning the dataset was divided int
 
 The final sequential model was trained for 25 epochs though its accuracy was increased when it was trained for more than that. However, the accuracy was still lower than that of the pretrained model, thus the number of epochs was set as 25 to reduce training time.
 
-Xception model is used as the pretrained model. The model is first trained with the train set. Then the model was run to adjust the learning and dropout rates.The number of epochs was set as 5 to reduce training time since the accuracy rate on validation set was more than 90%. 
+Xception model is used as the pretrained model. The model is first trained with the train set. Then the model was run to adjust the learning and dropout rates. The number of epochs was set as 5 to reduce training time since the accuracy rate on validation set was more than 90%. 
 
 The final model is run with augmentation and the adjusted learning and dropout rates, with 10 epochs.
 
